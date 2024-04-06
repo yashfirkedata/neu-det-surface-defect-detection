@@ -1,1 +1,2 @@
-# neu-det-surface-defect-detection
+# Please check Report for more info.
+
